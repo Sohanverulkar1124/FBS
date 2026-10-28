@@ -1,8 +1,10 @@
-#1. and : If both operands are ture then return true. ##multiple condition
-print (True and True)
+#1. and: if both the operands are true then  return true , otherwise return false 
+print(True and True) 
 
-#2. or : If both operand are False then return False
-print(False or False)
+#2. or: if both operands are false then return false, otherwisa return true
+print (True or False)
 
-#3. not :opposite of operand 
-print( not True)
+#3. not: opposite of operands 
+print(not True)
+
+
