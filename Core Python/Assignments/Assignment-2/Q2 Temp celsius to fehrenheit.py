@@ -1,0 +1,5 @@
+c = int (input ('enter the celsius :'))
+ 
+f = (((9/5)*c)+32)
+
+print(f'temprature of celsius fahrenheit',f)
